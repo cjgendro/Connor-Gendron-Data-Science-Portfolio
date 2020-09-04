@@ -15,4 +15,12 @@ SU email: cgendron@syr.edu
   
 ## Table of Contents
 
-   
+1. IST_659_Data_Admin_Concepts_&_Database_Management: Contains the SQL code used in creating the database and a folder overview file
+
+2. IST_707_Data_Analytics: Contains a folder overview explaining it's contents, the project code, and a folder of necessary data files
+
+3. IST_718_Big_Data_Analytics: Contains a folder overview file, project code folder, and project data folder
+
+4. IST_736_Text_Mining: Contains a folder overview file, project code folder and project data file
+
+5. Project_Deliverables: Contains portfolio deliverables including the professional resume, written milestone 1 document, milestone 2 powerpoint slide deck and milestone 2 recorded presentation
