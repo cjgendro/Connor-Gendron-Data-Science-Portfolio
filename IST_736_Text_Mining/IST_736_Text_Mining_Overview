@@ -1,0 +1,10 @@
+Table of Contents
+Text_Mining_IST_736_Codes:
+                          includes: Cleaning_and_SVM_code.py     python code for cleaning text and generating our support vector machine models
+                                    Clustering_code.py           python code for creatinge K-means and Hierarchical clusters
+                                    clustering_notebook.ipynb    clustering code in jupyter notebook format
+                                    MultiNomial_Naive_Bayes_code.ipynb      code for generating the multinomial naive bayes models in jupyter notebook
+                                    MultiNomial_Naive_Bayes_code.py         multinomial naive bayes code in normal python format
+                                    Topic_Modeling_and_EDA_code.py          code for generating latent dirichlet topic models and exploratory visual artefacts
+
+master_speech.xlsx:    Nomination speeches in excel format to run in the above python codes. Includes labels derived from outside sources.
