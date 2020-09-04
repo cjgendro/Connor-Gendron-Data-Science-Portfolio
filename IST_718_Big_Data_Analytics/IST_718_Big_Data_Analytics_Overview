@@ -1,0 +1,18 @@
+Table of Contents
+
+Big_Data_Analytics_IST_718_codes:
+                                 includes: Feature_Generation.ipynb          Jupyter notebook where the original kaggle data is cleaned, transformed and new features are generated and saved to a .pkl file
+                                                                              * note the size of the data can make this code very slow *
+                                           CNN_and_RF.ipynb                  Jupyter notebook using the generated .pkl file to create our Neural Network and Random forest models
+                                           Coach_application.ipynb           Jupyter notebook to create our interactive coaches play call suggestion application
+                                           EDA_and_Play_Plots.ipynb          Jupyter notebook for creating exploratory visual artefacts and plotting positional data for each play
+                                           Machine_Learning.ipynb            Jupyter notebok for creating our machine learning models
+                                           Naive_Bayes.ipynb                 Jupyter notebook for creating our Naive Bayes models
+                                  
+Big_Data_Analytics_IST_718_Data_Files:
+                                      includes: rush17.csv                   Rushing play data from the 2017 season
+                                                rush18.csv                   Rushing play data from the 2018 season
+                                                rush19.csv                   Rushing play data from the 2019 season
+                                                data.pkl                     Output from feature generation notebook
+                                                testX.pkl                    Test set derived from data.pkl
+                                                trainX.pkl                   Training set derived from data.pkl
