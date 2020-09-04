@@ -1,8 +1,12 @@
 # Connor-Gendron-Data-Science-Portfolio
 ## Student Identification
+
 Name: Connor Gendron
+
 SUID Number: 96559-2353
+
 NetID: cgendron
+
 SU email: cgendron@syr.edu
 
 ## Description
