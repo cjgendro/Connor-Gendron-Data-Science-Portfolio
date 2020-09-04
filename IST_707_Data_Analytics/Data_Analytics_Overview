@@ -1,4 +1,15 @@
 Table of Contents
 
-1: Project Code which can be viewed in R.
-2: Folder of data files for running project code
+Data_Analytics_IST707.Rmd : Project Code which can be viewed in R.
+
+Data_Files: Folder of data files for running project code
+
+            Includes: Game_Logs_Quarterback.csv
+                      Game_Logs_Runningback.csv
+                      Game_Logs_Wide_Receiver_and_Tight_End.csv
+                      Game_Logs_Kickers.csv
+                      Career_Stats_Passing.csv
+                      Career_Stats_Receiving.csv
+                      Career_Stats_Rushing.csv
+                      Basic_Stats.csv
+                      Career_Stats_Fumbles.csv                     
