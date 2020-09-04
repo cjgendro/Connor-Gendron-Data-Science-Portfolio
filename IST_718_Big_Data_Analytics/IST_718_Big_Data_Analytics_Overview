@@ -13,6 +13,4 @@ Big_Data_Analytics_IST_718_Data_Files:
                                       includes: rush17.csv                   Rushing play data from the 2017 season
                                                 rush18.csv                   Rushing play data from the 2018 season
                                                 rush19.csv                   Rushing play data from the 2019 season
-                                                data.pkl                     Output from feature generation notebook
-                                                testX.pkl                    Test set derived from data.pkl
-                                                trainX.pkl                   Training set derived from data.pkl
+                                                
