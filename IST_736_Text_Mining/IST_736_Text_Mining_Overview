@@ -8,3 +8,4 @@ Text_Mining_IST_736_Codes:
                                     Topic_Modeling_and_EDA_code.py          code for generating latent dirichlet topic models and exploratory visual artefacts
 
 master_speech.xlsx:    Nomination speeches in excel format to run in the above python codes. Includes labels derived from outside sources.
+
